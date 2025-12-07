@@ -1,0 +1,9 @@
+{
+	"name": "data-bricks-f1-adf",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d7bfc0e0-6220-49b1-8c33-c6021fff88fd",
+		"tenantId": "1c0b5662-209b-4784-9178-7d8d45f71ca1"
+	}
+}
