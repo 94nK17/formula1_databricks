@@ -1,0 +1,12 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "data-bricks-f1-adf"
+		},
+		"ls_databricks_ws_properties_typeProperties_existingClusterId": {
+			"value": "1126-035021-tggkk02j"
+		}
+	}
+}
