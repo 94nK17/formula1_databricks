@@ -134,7 +134,7 @@
 							},
 							"userProperties": [],
 							"typeProperties": {
-								"notebookPath": "/Users/ankitpanwar32@gmail.com/formula1_databricks/Formula1_git/trans/3.consstructor_standings",
+								"notebookPath": "/Users/ankitpanwar32@gmail.com/formula1_databricks/Formula1_git/trans/3.constructor_standings",
 								"baseParameters": {
 									"p_file_date": {
 										"value": "@formatDateTime(pipeline().parameters.p_window_end_date, 'yyyy-MM-dd' )",
